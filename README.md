@@ -3,9 +3,9 @@
 ## 📢 About me
 ### Contact
 #### Email
-[![Gmail](https://img.shields.io/badge/lholim01@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lholim01@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lholim01@gmail.com)
 #### Blog
-[![Tistory](https://img.shields.io/static/v1?style=for-the-badge&message=rim109.tistory.com&color=000000&logo=Tistory&logoColor=FFFFFF&label=)](https://rim109.tistory.com/)
+[![Tistory](https://img.shields.io/static/v1?style=for-the-badge&message=tistory&color=000000&logo=Tistory&logoColor=FFFFFF&label=)](https://rim109.tistory.com/)
 
 ## ⚒️ SKILLS
 
